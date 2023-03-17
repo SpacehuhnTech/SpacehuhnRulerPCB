@@ -26,3 +26,7 @@ fp-info-cache
 *.csv
 
 Spacehuhn_Ruler-backups/
+
+.DS_Store
+
+production/
